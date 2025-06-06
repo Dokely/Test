@@ -1,0 +1,10 @@
+{
+  "iPhone16,2": "iPhone 15 Pro Max",
+  "iPhone16,1": "iPhone 15 Pro",
+  "iPhone15,3": "iPhone 14 Pro Max",
+  "iPhone15,2": "iPhone 14 Pro",
+  "iPhone14,2": "iPhone 13 Pro",
+  "i386": "Simulator",
+  "x86_64": "Simulator",
+  "arm64": "Simulator"
+}
