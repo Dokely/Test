@@ -1,10 +1,7 @@
 {
-  // 模拟器
   "i386": "Simulator",
   "x86_64": "Simulator",
   "arm64": "Simulator",
-  
-  // iPhone 全系列
   "iPhone1,1": "iPhone 2G",
   "iPhone1,2": "iPhone 3G",
   "iPhone2,1": "iPhone 3GS",
@@ -50,18 +47,19 @@
   "iPhone14,2": "iPhone 13 Pro",
   "iPhone14,3": "iPhone 13 Pro Max",
   "iPhone14,6": "iPhone SE (3rd)",
+  "iPhone14,7": "iPhone 14",
+  "iPhone14,8": "iPhone 14 Plus",
   "iPhone15,2": "iPhone 14 Pro",
   "iPhone15,3": "iPhone 14 Pro Max",
-  "iPhone15,4": "iPhone 14",
-  "iPhone15,5": "iPhone 14 Plus",
+  "iPhone15,4": "iPhone 15",
+  "iPhone15,5": "iPhone 15 Plus",
   "iPhone16,1": "iPhone 15 Pro",
   "iPhone16,2": "iPhone 15 Pro Max",
-  "iPhone16,3": "iPhone 15",
-  "iPhone16,4": "iPhone 15 Plus",
-  "iPhone17,1": "iPhone 16 Pro",   // 假设
-  "iPhone17,2": "iPhone 16 Pro Max", // 假设
-
-  // iPad 全系列
+  "iPhone17,3": "iPhone 16",
+  "iPhone17,4": "iPhone 16 Plus",
+  "iPhone17,1": "iPhone 16 Pro", 
+  "iPhone17,2": "iPhone 16 Pro Max",
+  "iPhone17,5": "iPhone 16e",
   "iPad1,1": "iPad",
   "iPad2,1": "iPad 2 (WiFi)",
   "iPad2,2": "iPad 2 (GSM)",
@@ -85,7 +83,8 @@
   "iPad12,2": "iPad (9th)",
   "iPad13,18": "iPad (10th)",
   "iPad13,19": "iPad (10th)",
-
+  "iPad15,7": "iPad (A16)",
+  "iPad15,8": "iPad (A16)",
   "iPad4,1": "iPad Air",
   "iPad4,2": "iPad Air",
   "iPad4,3": "iPad Air",
@@ -97,7 +96,14 @@
   "iPad13,2": "iPad Air (4th)",
   "iPad13,16": "iPad Air (5th)",
   "iPad13,17": "iPad Air (5th)",
-
+  "iPad14,8": "iPad Air 11-inch (M2)",
+  "iPad14,9": "iPad Air 11-inch (M2)",
+  "iPad14,10": "iPad Air 13-inch (M2)",
+  "iPad14,11": "iPad Air 13-inch (M2)",
+  "iPad15,3": "iPad Air 11-inch (M3)",
+  "iPad15,4": "iPad Air 11-inch (M3)",
+  "iPad15,5": "iPad Air 13-inch (M3)",
+  "iPad15,6": "iPad Air 13-inch (M3)",
   "iPad2,5": "iPad mini",
   "iPad2,6": "iPad mini",
   "iPad2,7": "iPad mini",
@@ -113,7 +119,8 @@
   "iPad11,2": "iPad mini (5th)",
   "iPad14,1": "iPad mini (6th)",
   "iPad14,2": "iPad mini (6th)",
-
+  "iPad16,1": "iPad mini (A17 Pro)",
+  "iPad16,2": "iPad mini (A17 Pro)",
   "iPad6,3": "iPad Pro (9.7)",
   "iPad6,4": "iPad Pro (9.7)",
   "iPad6,7": "iPad Pro (12.9 1st)",
@@ -145,5 +152,9 @@
   "iPad14,3": "iPad Pro (11 4th)",
   "iPad14,4": "iPad Pro (11 4th)",
   "iPad14,5": "iPad Pro (12.9 6th)",
-  "iPad14,6": "iPad Pro (12.9 6th)"
+  "iPad14,6": "iPad Pro (12.9 6th)",
+  "iPad16,3": "iPad Pro 11-inch (M4)",
+  "iPad16,4": "iPad Pro 11-inch (M4)",
+  "iPad16,5": "iPad Pro 13-inch (M4)",
+  "iPad16,6": "iPad Pro 13-inch (M4)"
 }
